@@ -39,3 +39,62 @@ font-family: 'Open Sans', sans-serif;
     height: 500px;
     flex-shrink: 0;
 }
+
+#featured{
+    text-align: center;
+}
+
+.main-header{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+  
+}
+.main-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;  
+}
+
+.flowershow{
+    margin-left: 170px;
+    
+}
+
+.flowshowcase1{
+    background-color: rgba(167, 33, 98, 0.15);
+    width:350px;
+    height:400px;
+    border-radius: 300px 300px 0px 0px;
+    display: inline-block;
+    margin: 0 auto;
+   
+}
+.flowshowcase2{
+    background-color: rgba(5, 151, 160, 0.15);
+    width:350px;
+    height:400px;
+    border-radius: 300px 300px 0px 0px;
+    display: inline-block;
+    margin: 0 auto;
+   
+}
+.flowshowcase3{
+    background-color: rgba(71, 125, 17, 0.15);
+    width:350px;
+    height:400px;
+    border-radius: 300px 300px 0px 0px;
+    display: inline-block;
+    margin: 0 auto;
+   
+}
+
+.img{
+    height: 350px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 65px;
+}
+.flower-caption{
+    margin-left: 100px;
+}
