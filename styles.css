@@ -8,6 +8,7 @@ font-family: 'Open Sans', sans-serif;
     display: flex;
     align-items: center;
     justify-content: space-around;
+   
 }
 
 .header-title{
@@ -97,4 +98,8 @@ font-family: 'Open Sans', sans-serif;
 }
 .flower-caption{
     margin-left: 100px;
+}
+.hot-deal{
+    text-align: center; 
+    margin-top: 50px;
 }
