@@ -116,7 +116,7 @@ font-family: 'Open Sans', sans-serif;
 }
 .social-pic{
     display: inline-flex;
-    margin-left: 20px;
+    margin-left: 25px;
     width: 250px;
     height: 300px;
 }
@@ -129,13 +129,31 @@ font-family: 'Open Sans', sans-serif;
     background-image: url(Images/Rectangle\ 9.png);
     background-repeat: no-repeat;
     background-position: center;
-    width: 1200px; 
-    height: 400px;   
-    margin-left: 150px;
+    width: 1090px; 
+    height: 280px;   
+    margin-left: 220px;
  text-align: center;
     
 }
 
 #input-subscribe{
     padding:20px;
+}
+.footer-text{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:5px;
+    margin-top:15px;
+}
+.footer-title{
+    font-size: 35px;
+     font-weight: 800px;
+     margin-top: 50px;
+}
+.span{
+     color:#E55473;
+}
+.credit{
+    padding-bottom: 10px;
 }
