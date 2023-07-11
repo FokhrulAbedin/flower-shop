@@ -59,6 +59,7 @@ font-family: 'Open Sans', sans-serif;
 
 .flowershow{
     margin-left: 170px;
+    justify-content: space-around;
     
 }
 
@@ -77,7 +78,7 @@ font-family: 'Open Sans', sans-serif;
     height:400px;
     border-radius: 300px 300px 0px 0px;
     display: inline-block;
-    margin: 0 auto;
+    margin-left: 50px;
    
 }
 .flowshowcase3{
@@ -86,7 +87,8 @@ font-family: 'Open Sans', sans-serif;
     height:400px;
     border-radius: 300px 300px 0px 0px;
     display: inline-block;
-    margin: 0 auto;
+    margin-left: 50px;
+
    
 }
 
@@ -102,4 +104,23 @@ font-family: 'Open Sans', sans-serif;
 .hot-deal{
     text-align: center; 
     margin-top: 50px;
+    margin-bottom: 20px ;
+    align-items: center;
+}
+.hot-deal-pic{
+    margin-right: 100px;
+    align-items: center;
+}
+.social {
+    text-align: center;
+}
+.social-pic{
+    display: inline-flex;
+    margin-left: 20px;
+    width: 250px;
+    height: 300px;
+}
+.social-section{
+    margin-top: 50px;
+    margin-left: 200px;
 }
