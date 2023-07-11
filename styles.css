@@ -124,3 +124,18 @@ font-family: 'Open Sans', sans-serif;
     margin-top: 50px;
     margin-left: 200px;
 }
+
+.latest-deal{
+    background-image: url(Images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1200px; 
+    height: 400px;   
+    margin-left: 150px;
+ text-align: center;
+    
+}
+
+#input-subscribe{
+    padding:20px;
+}
